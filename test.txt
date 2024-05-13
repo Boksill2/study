@@ -1,3 +1,7 @@
 ssssssssssssssssss
+<<<<<<< HEAD
 asdasdasd
 asdasdd
+=======
+dddddddddddd
+>>>>>>> 23e553716b8dc2dcbcf23f196356190abbca80bc
